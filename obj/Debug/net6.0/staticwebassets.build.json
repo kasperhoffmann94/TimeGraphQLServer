@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "INXHei2mnwiKp4hwKDoDSUTEz1vWV3GbMJ1yx9gRGhA=",
+  "Source": "TimeGraphServer",
+  "BasePath": "_content/TimeGraphServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
